@@ -11,7 +11,7 @@ Kelas : TI.22.A1
 |2|Flowchart tugas ke-9|[Click Here](https://github.com/Luxcario/praktikum6/edit/main/README.md#flowchart-tugas-ke-9)|
 
 
-## Tugas ke-9
+## Tugas ke-6
 Buatlah program sederhana untuk menambahkan data kedalam sebuah list dengan rincian sebagai berikut :
 
 - Fungsi tambah() untuk menambahkan data
